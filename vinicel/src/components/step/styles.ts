@@ -15,7 +15,7 @@ export const s = StyleSheet.create ({
         fontSize: 16,
         fontFamily: fontFamily.semiBold,
         color: colors.gray[600],
-        backgroundColor: "red"
+    
     },
     description: {
         fontSize: 14,
