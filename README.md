@@ -68,7 +68,7 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 
 <br />
 
-- [Instagram](https://www.instagram.com/vinidbx/)
+- [Instagram](https://www.instagram.com/botelhodamaceno/)
 - [LinkedIn](https://www.linkedin.com/in/viniciusdb8/)
 
 <br />
