@@ -5,6 +5,7 @@ export const s = StyleSheet.create ({
     container: {
         height: 36,
         backgroundColor: colors.gray[100],
+        borderColor: colors.gray[300],
         borderWidth: 1,
         borderRadius: 6,
         justifyContent: "center",
@@ -22,7 +23,8 @@ export const s = StyleSheet.create ({
 
 containerSelected: {
     backgroundColor: colors.green.base,
-    borderWidth: 0,
+    borderColor: colors.green.base,
+    borderWidth: 1,
 
 
 },
